@@ -1,0 +1,98 @@
+body {
+   font-size: 14px;
+   background-color: #fff;
+   width: 100%;
+   margin-left: 0;
+   }
+.header1{
+	
+	background-color: black;
+	height: 20px;
+	color: white;
+	position: fixed;
+	width: 100%;
+}
+#top-header-left{
+	padding-left: 20px;
+	float: left;
+	color: white;
+}
+.top-header-right{
+float: right;	
+}
+.fa {
+	width: 28px;
+	text-decoration: none;
+	
+}
+.fa:hover {
+	opacity: 0.7;
+}
+.fa-instagram {
+	background: transparent;
+	color: white;	
+}
+.fa-facebook {
+	background: transparent;
+	color: white;
+}
+.fa-twitter {
+	background: transparent;
+	color: white;
+}
+.row-1{
+	background-color: #6362bb;
+	color: white;
+	padding-top: 100px;
+	text-align: center;
+	height: 850px;
+	width: 100%;
+	line-height: 30px;
+}
+.row-1-overview{
+	padding-top: 20px;
+	font-size: 20px;
+}
+.row-1-image{
+	height: auto;
+	width: 100%;
+	padding-top: 50px;
+	top: 80px;
+
+}
+.btn-success{
+	height: 50px;
+	width: 120px;
+	padding: 10px 20px;
+	margin: 10px 0x;
+	border-radius: 10px;
+	color: white;
+}
+h1{
+	font-size: 36px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.nav1{
+position: fixed;
+margin-top: 20px;
+width: 100%;
+}
+#main_content{
+	text-align: center;
+}
+.row-2{
+	top: 220px;
+	line-height: 5px;
+	position: relative;
+}
+p{
+	margin: 10px;
+}
+.fa {
+  
+  width: 28px;
+  top: 0;
+  text-decoration: none;
+ 
+    }
